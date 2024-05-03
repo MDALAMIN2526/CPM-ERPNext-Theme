@@ -4,8 +4,7 @@ Business Theme for ERPNext / Frappe
 
 ### To install this theme,
 
-bench get-app https://github.com/Midocean-Technologies/business_theme_v14.git
-
+bench get-app https://github.com/MDALAMIN2526/ERPNext-Theme.git
 bench --site (sitename) install-app business_theme_v14
 
 bench clear-cache
